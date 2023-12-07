@@ -1,4 +1,4 @@
-const consentBtn = document.querySelector('.consent-btn');
+const consentBtn = document.querySelector('.consent-modal-btn');
 
 consentBtn.addEventListener("click", toggleDisclaimer)
 
